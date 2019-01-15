@@ -3,7 +3,7 @@ function square(s){
         if(s > 0){
             return Math.sqrt(s);
         }else{
-            return console.log("error, number is negative");
+            return -1;
         }
     }else{
         return -1;
