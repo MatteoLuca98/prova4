@@ -5,6 +5,8 @@ function square(s){
         }else{
             return console.log("error, number is negative");
         }
+    }else{
+        return -1;
     }
 }
 
