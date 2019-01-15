@@ -10,4 +10,4 @@ function square(s){
     }
 }
 
-module.exports = sqaure;
+module.exports = square;
