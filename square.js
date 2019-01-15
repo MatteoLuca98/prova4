@@ -1,5 +1,5 @@
 function square(s){
-    if(typeof(s) == 'number'){
+    if(!isNaN(s)){
         if(s > 0){
             return Math.sqrt(s);
         }else{
